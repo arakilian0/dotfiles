@@ -1,2 +1,3 @@
 @ECHO OFF 
-cd C:\dev
+call dotfiles-config
+cd %dir_dev%
