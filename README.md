@@ -1,3 +1,3 @@
 # dotfiles
 
-### My Batch and Shell scripts.
+### Batch and Shell scripts.
